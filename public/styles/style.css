@@ -1,0 +1,8 @@
+a {color: aqua;
+margin: 5px 10px 20px 30px;}
+
+.lorem {background-color: tomato;}
+
+#profile_id:hover {
+    color: rgb(255, 0, 255);
+}
