@@ -1,5 +1,5 @@
 {
-  "name": "express",
+  "name": "tarea1",
   "type": "module",
   "version": "1.0.0",
   "main": "index.js",
@@ -8,8 +8,16 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianE2005/Tarea1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/christianE2005/Tarea1/issues"
+  },
+  "homepage": "https://github.com/christianE2005/Tarea1#readme",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^4.21.2"
   }
 }
